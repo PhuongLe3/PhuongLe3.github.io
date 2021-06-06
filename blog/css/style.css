@@ -212,7 +212,7 @@ figure {
 }
 
 .article-image {
-    width: 33%;
+    width: 50%;
     float: left;
     margin-right: 0.75rem;
 }
@@ -232,6 +232,7 @@ figure {
 
     padding: 0.5rem 0.5rem;
 }
+
 
 
 /* LINKS AND NAVIGATION*/
@@ -255,4 +256,5 @@ nav a {
 nav {
     border-top: 1px solid #B49871;
     border-bottom: 1px solid #B49871;
+    margin-bottom: 0.75rem;
 }
